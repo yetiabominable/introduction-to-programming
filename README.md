@@ -1,2 +1,2 @@
-# introduction-to-programming
+# Introduction to Programming
 Introduction to Programming
